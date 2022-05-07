@@ -2,8 +2,8 @@
 #### Seeking summer 2023 Internship opporunities!
 ![Seeking summer 2023 Internship opporunities!](https://tenor.com/view/sewa-rumah-nak-baya-bile-gif-24577908.gif)
 
-
-- 🔭 I’m currently working on I’m currently grinding **LC** and building a **Personal Website**   
+- 🏢 I'm currently working @ Wayfair as a Software Engineer Intern, prev @ PointClickCare
+- 🔭 I’m currently grinding **LC** and building a **Personal Website**   
 - 🌱 I’m currently learning **Containers**, **Docker**, and **DevOps automation tools** 
 - ⚡ Fun fact: i like making content 🎥, streaming 🎬, and 🏃‍♂️
 
