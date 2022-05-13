@@ -2,7 +2,7 @@
 #### Currently Seeking Summer 2023 Internship Opportunities!
 
 - 🏢 I'm currently working @Wayfair as a Software Engineer Intern, prev @PointClickCare
-- 🔭 I’m currently grinding **LC** and building a **Personal Website**   
+- 🔭 I’m currently building a **Personal Website** and grinding **LC**   
 - 🌱 I'm learning about **Containers**, **Docker**, and **DevOps automation tools** 
 - ⚡ Fun fact: i like making content 🎥 and 🏃‍♂️
 
