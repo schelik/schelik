@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Semih 
 #### Currently Seeking summer 2023 Internship opporunities!
 
-- 🏢 I'm currently working @ Wayfair as a Software Engineer Intern, prev @ PointClickCare
+- 🏢 I'm currently working @Wayfair as a Software Engineer Intern, prev @PointClickCare
 - 🔭 I’m currently grinding **LC** and building a **Personal Website**   
 - 🌱 I'm learning about **Containers**, **Docker**, and **DevOps automation tools** 
 - ⚡ Fun fact: i like making content 🎥, streaming 🎬, and 🏃‍♂️
