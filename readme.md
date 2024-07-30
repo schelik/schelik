@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Semih 
-#### Currently Seeking Internship Opportunities!
+#### Currently New Grad Opportunities!
 
-- 🏢 I've worked as a Software Engineer Intern @Autodesk, @Wayfair, @PointClickCare
-- 🌱 I'm learning about **GO**, **Docker**, and **DevOps automation tools** 
+- 🏢 I've worked as a Software Engineer Intern @Microsoft, @Autodesk, @Wayfair, @PointClickCare
